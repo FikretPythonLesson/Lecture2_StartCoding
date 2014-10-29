@@ -1,0 +1,13 @@
+Ctrl + Z 	                  Geri al	              Undo
+Ctrl + R 	                  Yeniden yap	          Redo
+Home	                      Satır başına git	    Goto begining of line
+End	                        Satır sonuna git	    Go to end of line
+Ctrl + Arrow  	            kelime kelime git	    Go word by word
+Ctrl + Shift + Arrow 	      kelime kelime seç	    Select word by word
+Home, Shift + Down arrow   	Tüm satırı seç	      Select line
+Double click 	              Kelime seç	          selects the word
+Double click + double click Satır seç	            selects the line
+Alt+3 	                    Yorum yap	            comment out region
+Alt+4  	                    Yorumu kaldır	        uncomment region
+Tab  	                      İçerlek yap	          Indent region
+Ctrl + [ 	                  İçerlek kısmı geri al	Detent region
